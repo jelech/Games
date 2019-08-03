@@ -1,0 +1,10 @@
+F:\code_vs\c#\shiyan1\shiyan1\bin\Debug\shiyan1.exe.config
+F:\code_vs\c#\shiyan1\shiyan1\bin\Debug\shiyan1.exe
+F:\code_vs\c#\shiyan1\shiyan1\bin\Debug\shiyan1.pdb
+F:\code_vs\c#\shiyan1\shiyan1\obj\Debug\shiyan1.Form1.resources
+F:\code_vs\c#\shiyan1\shiyan1\obj\Debug\shiyan1.Properties.Resources.resources
+F:\code_vs\c#\shiyan1\shiyan1\obj\Debug\shiyan1.csproj.GenerateResource.cache
+F:\code_vs\c#\shiyan1\shiyan1\obj\Debug\shiyan1.csproj.CoreCompileInputs.cache
+F:\code_vs\c#\shiyan1\shiyan1\obj\Debug\shiyan1.exe
+F:\code_vs\c#\shiyan1\shiyan1\obj\Debug\shiyan1.pdb
+F:\code_vs\c#\shiyan1\shiyan1\obj\Debug\shiyan1.csprojAssemblyReference.cache
